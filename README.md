@@ -10,8 +10,12 @@ Dijital dönüşüm, yapay zeka (AI) destekli yazılım süreçleri ve sistem op
 ### Son Makalelerim
 - 📝 [Yapay Zeka ve Dijital Dönüşüm: İş Süreçlerinde Optimizasyon](https://medium.com/@gokhancitil/yapay-zeka-ve-dijital-d%C3%B6n%C3%BC%C5%9F%C3%BCm-i%CC%87%C5%9F-s%C3%BCre%C3%A7lerinde-optimizasyon-ve-gelece%C4%9Fin-teknolojileri-b232a800da84)
 
-### Bana Ulaşın
-- 💼 [LinkedIn](https://linkedin.com/in/gokhancitil)
-- ✍️ [Medium](https://medium.com/@gokhancitil)
-- 📧 gokhancitil@gmail.com
-- 🌐 [Web Sitem](https://gokhancitil.com)
+**Bana Ulaşın**
+
+* 🌐 [Web Sitem](https://gokhancitil.com)
+* 📧 [gokhancitil@gmail.com](mailto:gokhancitil@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/gokhancitil)
+* 📸 [Instagram](https://instagram.com/gokhancitil)
+* 🐦 [Twitter (X)](https://x.com/gokhancitil)
+* 📘 [Facebook](https://www.facebook.com/gokhancitil)
+* ✍️ [Medium](https://medium.com/@gokhancitil)
