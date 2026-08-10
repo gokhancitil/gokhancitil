@@ -13,9 +13,9 @@ Dijital dönüşüm, yapay zeka (AI) destekli yazılım süreçleri ve sistem op
 **Bana Ulaşın**
 
 * 🌐 [Web Sitem](https://gokhancitil.com)
-* 📧 [gokhancitil@gmail.com](mailto:gokhancitil@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/gokhancitil)
 * 📸 [Instagram](https://instagram.com/gokhancitil)
 * 🐦 [Twitter (X)](https://x.com/gokhancitil)
 * 📘 [Facebook](https://www.facebook.com/gokhancitil)
 * ✍️ [Medium](https://medium.com/@gokhancitil)
+* 📧 [Mail](mailto:gokhancitil@gmail.com)
