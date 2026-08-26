@@ -26,7 +26,7 @@ Uzmanlık Alanları:
 Teknolojiler: Python, JavaScript, C#, Laravel, PostgreSQL, Redis,
 Docker, Nginx
 
-İletişim: gokhancitil@gmail.com | gokhancitil.com
+İletişim: gokhancitil@gmail.com | https://gokhancitil.com
 
 ### Son Makalelerim
 - 📝 [Yapay Zeka ve Dijital Dönüşüm: İş Süreçlerinde Optimizasyon](https://medium.com/@gokhancitil/yapay-zeka-ve-dijital-d%C3%B6n%C3%BC%C5%9F%C3%BCm-i%CC%87%C5%9F-s%C3%BCre%C3%A7lerinde-optimizasyon-ve-gelece%C4%9Fin-teknolojileri-b232a800da84)
