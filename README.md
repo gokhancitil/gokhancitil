@@ -6,7 +6,7 @@
 
 ---
 
-Gökhan Çitil, yapay zeka ve yazılım geliştirme alanında çalışan bir AI & Software Developer'dır. Çok kiracılı (multi-tenant) SaaS sistemleri, e-ticaret altyapıları, kurumsal web siteleri, mobil uygulamalar ve süreç otomasyonları geliştirir; mevcut sistemlere verimlilik odaklı yapay zeka entegrasyonları sağlar.
+Gökhan Çitil, yapay zeka ve yazılım geliştirme alanında çalışan bir AI & Software Developer'dır. Çok kiracılı (multi-tenant) SaaS sistemleri, kurumsal web siteleri, mobil uygulamalar ve süreç otomasyonları geliştirir; mevcut sistemlere verimlilik odaklı yapay zeka entegrasyonları sağlar.
 
 Ölçeklenebilir sistem mimarileri kurar ve temiz kod prensipleriyle çalışır. Geliştirdiği her sistemde yapılandırılmış veri (Schema.org) ve AI arama motoru uyumluluğu (GEO) standarttır.
 
@@ -23,7 +23,6 @@ Gökhan Çitil, yapay zeka ve yazılım geliştirme alanında çalışan bir AI 
 | **Çok Kiracılı SaaS** | Multi-tenant mimari, abonelik ve sanal POS, otomatik ölçekleme |
 | **Yapay Zeka** | LLM entegrasyonları, akıllı asistanlar, karar destek, otomasyon |
 | **Mobil Uygulama** | iOS / Android geliştirme, App Store & Google Play yayın süreçleri |
-| **E-Ticaret** | Ürün ve sipariş yönetimi, ödeme ve kargo entegrasyonları |
 | **Kurumsal Web** | Yönetim panelli, mobil uyumlu, hız odaklı sistemler |
 | **SEO / GEO** | Schema.org, yapılandırılmış veri, AI arama motoru görünürlüğü |
 
