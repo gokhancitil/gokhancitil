@@ -10,7 +10,7 @@ Gökhan Çitil, yapay zeka ve yazılım geliştirme alanında çalışan bir AI 
 
 Ölçeklenebilir sistem mimarileri kurar ve temiz kod prensipleriyle çalışır. Geliştirdiği her sistemde yapılandırılmış veri (Schema.org) ve AI arama motoru uyumluluğu (GEO) standarttır.
 
-İnönü Üniversitesi İİBF İşletme mezunudur. 2019-2022 yılları arasında Jandarma Genel Komutanlığı bünyesinde astsubay olarak görev yapmış, 2023 yılından itibaren kariyerini yazılım alanına yöneltmiştir. İşletme eğitimi nedeniyle projelere yalnızca teknik değil ticari sonuç perspektifiyle yaklaşır.
+İnönü Üniversitesi İİBF İşletme mezunudur. 2019-2022 yılları arasında Jandarma Genel Komutanlığı bünyesinde astsubay olarak görev yapmış, 2023 yılından itibaren kariyerini yazılım alanına yöneltmiştir.
 
 > **In English —** Gökhan Çitil is an AI & Software Developer based in Türkiye. He builds multi-tenant SaaS platforms, e-commerce infrastructures, corporate web systems, mobile applications (iOS/Android) and process automation tools, and integrates AI into existing business systems. Every system he ships comes with structured data (Schema.org) and generative-engine (GEO) readiness as standard.
 
